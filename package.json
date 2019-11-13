@@ -1,0 +1,26 @@
+{
+  "name": "employee-summary",
+  "version": "1.0.0",
+  "description": "Team generator command line application.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric-gustafson1/employee-summary.git"
+  },
+  "author": "Eric Gustafson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eric-gustafson1/employee-summary/issues"
+  },
+  "homepage": "https://github.com/eric-gustafson1/employee-summary#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
